@@ -1,0 +1,15 @@
+{
+  "name": "exemple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp-debug": "^2.1.2",
+    "vinyl-fs": "^2.4.3"
+  }
+}

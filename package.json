@@ -1,0 +1,18 @@
+{
+  "name": "vinyl-html-resources",
+  "version": "0.0.1",
+  "description": "Download HTML resources dependencies",
+  "main": "./lib/index",
+  "scripts": {
+    "prepublish": "typings install && tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lionel Seguin <lionel.seguin@content-square.fr>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "css": "^2.2.1",
+    "through2": "^2.0.1",
+    "vinyl": "^1.2.0"
+  }
+}

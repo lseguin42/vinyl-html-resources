@@ -1,0 +1,16 @@
+{
+  "name": "vinyl-html-resources",
+  "dependencies": {},
+  "globalDependencies": {
+    "cheerio": "registry:dt/cheerio#0.17.0+20160407085313",
+    "css": "registry:dt/css#0.0.0+20151120051005",
+    "form-data": "registry:dt/form-data#0.0.0+20160724024111",
+    "glob": "registry:dt/glob#5.0.10+20160317120654",
+    "glob-stream": "registry:dt/glob-stream#3.1.12+20160316155526",
+    "minimatch": "registry:dt/minimatch#2.0.8+20160317120654",
+    "node": "registry:env/node#6.0.0+20160813135048",
+    "request": "registry:dt/request#0.0.0+20160726020908",
+    "through2": "registry:dt/through2#2.0.0+20160317120654",
+    "vinyl": "registry:dt/vinyl#1.1.0+20160316155526"
+  }
+}

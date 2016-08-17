@@ -1,2 +1,2 @@
 # vinyl-html-resources
-Download All Resources Dependencies of HTML
+Download all resources dependencies (css, fonts, img)
